@@ -25,7 +25,7 @@
     font-weight: bold;
 }
 .navigation .cart{
-    background-color: #B5651D;
+    background-color: #99704c;
     border: solid 1px white;
     border-radius: 25px;
 }
@@ -39,12 +39,56 @@
     transition: 0.3s;
 }
 .banner, .banner .text{
-    background-color: #eccfb5;
+    background-color: #dfb891;
+    padding-top: 30px;
 }
 .banner .text{
-    background-color: #eccfb5;
-    color: white;
+    background-color: #dfb891;
+    margin-left: 147px;
+    margin-top: 30px;
 }
 .banner .text h1{
-    font-size: 2rem;
+    color: white;
+    font-size: 5rem;
+}
+.banner .text .btn{
+    background: white;
+    color: #B5651D;
+    font-weight: bold;
+    width: 150px;
+    transition: 0.3s;
+}
+.banner .text .btn:hover{
+    background: #B5651D;
+    color: white;
+    font-weight: bold;
+    width: 150px;
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+.banner .banner-img{
+    padding-left: 72px;
+}
+.brands{
+    padding-top:30px;
+    padding-bottom:30px;
+    background-color: rgb(170, 169, 167); 
+}
+.brands p{
+    color: white;
+}
+.brands .btn{
+    background-color: white;
+    color: #B5651D;
+    font-weight: bold;
+    width: 150px;
+    padding: 0px;
+    transition: 0.3s;
+}
+.brands .btn:hover{
+    color: white;
+    background-color: #B5651D;
+    font-weight: bold;
+    width: 150px;
+    transition: 0.3s;
 }

@@ -3,6 +3,7 @@
         <div class="row">
             <div class="col-xl-6">
                 <div class="text">
+                    <img src="images/3.png" alt="">
                     <h1>
                         ALL BRANDS <br>YOU NEED
                     </h1>
@@ -10,8 +11,8 @@
                     <button class="btn">Shop Now</button>
                 </div>
             </div>
-            <div class="col-xl-6 d-flex justify-content-end">
-                <img src="images/banner.png" alt="">
+            <div class="col-xl-6">
+                <img src="images/banner.png" alt="" class='banner-img'>
             </div>
         </div>
     </div>
