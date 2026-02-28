@@ -10,13 +10,16 @@
                         <a href="#" class="nav-link active">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#" class="nav-link active">Nike</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#" class="nav-link active">Redtape</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#" class="nav-link active">Puma</a>
+                        <div class="dropdown">
+                            <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Brands
+                            </button>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="#">Nike</a></li>
+                                <li><a class="dropdown-item" href="#">Puma</a></li>
+                                <li><a class="dropdown-item" href="#">Redtape</a></li>
+                            </ul>
+                        </div>
                     </li>
                     <li class="nav-item">
                         <a href="#" class="nav-link active">Testimonials</a>

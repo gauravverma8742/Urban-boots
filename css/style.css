@@ -11,6 +11,19 @@
     transform: scale(1.05);
     transition: 0.3s;
 }
+.navigation .dropdown-toggle{
+    background: #eccfb5;
+    border: none;
+    padding: 0px;
+    margin-top: 11px;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+.navigation .dropdown-item{
+    color: #eccfb5;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
 .navigation .cart{
     background-color: #B5651D;
     border: solid 1px white;
@@ -24,4 +37,14 @@
     color: black;
     transform: scale(1.1);
     transition: 0.3s;
+}
+.banner, .banner .text{
+    background-color: #eccfb5;
+}
+.banner .text{
+    background-color: #eccfb5;
+    color: white;
+}
+.banner .text h1{
+    font-size: 2rem;
 }
