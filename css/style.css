@@ -1,6 +1,16 @@
 .navigation{
     background-color: #eccfb5;
 }
+.navigation .nav-link{
+    font-weight: bold;
+    color: white;
+    transition: 0.3s;
+    font-size: 1.1rem;
+}
+.navigation .nav-link:hover,.footer .nav-link:hover{
+    transform: scale(1.05);
+    transition: 0.3s;
+}
 .navigation .cart{
     background-color: #B5651D;
     border: solid 1px white;
