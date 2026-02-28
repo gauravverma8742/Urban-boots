@@ -1,4 +1,17 @@
-body{
-    background: black;
-    
+.navigation{
+    background-color: #eccfb5;
+}
+.navigation .cart{
+    background-color: #B5651D;
+    border: solid 1px white;
+    border-radius: 25px;
+}
+.navigation .fa-cart-shopping{
+    color: white;
+    transition: 0.3s;
+}
+.navigation .fa-cart-shopping:hover{
+    color: black;
+    transform: scale(1.1);
+    transition: 0.3s;
 }
