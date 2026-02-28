@@ -92,3 +92,14 @@
     width: 150px;
     transition: 0.3s;
 }
+.men{
+
+}
+.men .carousel{
+    width: 300px;
+    border-radius: 25px;
+    overflow: hidden;
+}
+.men .carousel-control-prev, .men .carousel-control-next{
+    display: none;
+}
