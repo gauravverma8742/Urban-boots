@@ -93,7 +93,25 @@
     transition: 0.3s;
 }
 .men{
-
+    background-color: #eccfb5;
+    padding-top: 30px;
+}
+.men .one{
+    color: #99704c;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+.men .two{
+    color: white;
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+.men .three{
+    color: white;
+    font-size: 2rem;
+}
+.men .four{
+    
 }
 .men .carousel{
     width: 300px;
