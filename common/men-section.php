@@ -9,7 +9,7 @@
     </div>
     <div class="container-fluid">
         <div class="row">
-            <div class="col-xl-4">
+            <div class="col-xl-3">
                 <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active" data-bs-interval="2000">
@@ -32,7 +32,7 @@
                     </button>
                 </div>
             </div>
-            <div class="col-xl-8 text-center">
+            <div class="col-xl-9 text-center align-item-center">
                 <h4>Branded shoes for a gentelmen</h4>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga enim quo recusandae eos aliquid quae fugit animi eligendi aspernatur cupiditate?</p>
                 <button class="btn">Let's go</button>
